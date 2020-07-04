@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.example.com/%D7%A4%D7%95%D7%A1%D7%98%D7%99%D7%9D/the_zen_of_finding_a_job/</loc>
+    <lastmod>2020-07-03T21:56:31+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/%D7%A4%D7%95%D7%A1%D7%98%D7%99%D7%9D/</loc>
+    <lastmod>2020-07-03T21:56:31+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/</loc>
+    <lastmod>2020-07-03T21:56:31+03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.example.com/tags/</loc>
+  </url>
+  
+</urlset>
