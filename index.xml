@@ -1,15 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>קרבלוג</title>
+    <title>Starting Point</title>
     <link>https://kerbel.github.io/</link>
-    <description>Recent content on קרבלוג</description>
+    <description>Recent content on Starting Point</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>he</language>
-    <lastBuildDate>Fri, 03 Jul 2020 21:56:31 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2020 11:50:56 +0300</lastBuildDate>
     
 	<atom:link href="https://kerbel.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>עשרת הדיברות לשימוש נכון ב-LinkedIn</title>
+      <link>https://kerbel.github.io/posts/the_zen_of_linkedin/</link>
+      <pubDate>Sat, 15 Aug 2020 11:50:56 +0300</pubDate>
+      
+      <guid>https://kerbel.github.io/posts/the_zen_of_linkedin/</guid>
+      <description>עשרת הדיברות לשימוש נכון בלינקדאין מה לא נאמר כבר על LinkedIn&amp;hellip; רשת חברתית, ה-מקום למציאת עבודה, feed מקצועי, הנטוורקינג המודרני. הכל נכון, ולאור זאת – יאללה, לפתוח פרופיל עכשיו! מרגע פתיחת פרופיל LinkedIn, ולמען האמת, מרגע הכניסה למעגל העבודה, נמליץ שתתייחסי אל עצמך כאל מותג. וכפועל יוצא של זה – לשמר ולקדם מותג שואב לא מעט אנרגיה, זמן ועבודה. מעבר לחשיבות שזה יוסיף למותג שלך (עצמך!), העבודה הקשה הזו שתדרוש &amp;ldquo;לגנן&amp;rdquo; את המותג שלנו, להוכיח את הידע, להציע עזרה בתחום מסוים שיש לנו ערך מוסף בו, ולשתף בתובנות שעשויות להיות רלוונטיות לאנשים מעבר למעגלים הישירים שלנו – בסופו של דבר תוכיח את עצמה כי הארסנל שלך יתמלא במקומות הנכונים.</description>
+    </item>
     
     <item>
       <title>למצוא עבודה The zen of</title>
